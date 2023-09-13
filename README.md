@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <h1 align="center"> Hello! I'm Karen Velásquez 👋 </h1> 
 Welcome to my GitHub profile. <br>
-🙋 I'm a 18 years old, from Colombia and I'm a Full-Stack developer with focus on .NET <br>
+🙋 I'm a 18 years old, from Colombia and I'm a backend developer with focus on .NET <br>
 ⭐ My objetive is to provide exceptional user experiences and efficient solutions in each project, giving them a unique touch and working to make this one better than the previous project.
 
 # 💻 Tech Stack:
